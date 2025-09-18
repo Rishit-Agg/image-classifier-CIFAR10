@@ -1,0 +1,5 @@
+data/
+*.tar.gz
+*.zip
+*.pth
+__pycache__/

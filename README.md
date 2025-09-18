@@ -78,15 +78,16 @@ Both models are evaluated with and without data augmentation. The results includ
 ## How to Run
 1. Clone the repository:
    
-   git clone https://github.com/Rishit-Agg/image-classifier-CIFAR10.git 
+   git clone https://github.com/Rishit-Agg/image-classifier-CIFAR10.git
+   
    cd image-classifier-CIFAR10
 
-2. Install dependencies:
+3. Install dependencies:
 
     pip install -r requirements.txt
 
 
-3. Run the notebook (.ipynb) in Jupyter or VSCode to train and evaluate the models.
+4. Run the notebook (.ipynb) in Jupyter or VSCode to train and evaluate the models.
 
 ## Notes
 

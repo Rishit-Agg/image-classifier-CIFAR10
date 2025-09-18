@@ -32,54 +32,54 @@ Both models are evaluated with and without data augmentation. The results includ
 ## Results
 
 ### TinyVGG (No Augmentation)
-- Final Accuracy: XX.XX%
+- Final Accuracy: 75.13%
 - Loss vs Epochs Curve  
-  ![TinyVGG No Aug Loss Curve](images/Screenshot 2025-09-18 113617.png)
+  ![TinyVGG No Aug Loss Curve](images/Screenshot-2025-09-18-113617.png)
 - Accuracy vs Epochs Curve  
-  ![TinyVGG No Aug Accuracy Curve](images/Screenshot 2025-09-18 113731.png)
+  ![TinyVGG No Aug Accuracy Curve](images/Screenshot-2025-09-18-113731.png)
 - Confusion Matrix  
-  ![TinyVGG No Aug Confusion Matrix](images/Screenshot 2025-09-18 114135.png)
+  ![TinyVGG No Aug Confusion Matrix](images/Screenshot-2025-09-18-114135.png)
 
 ---
 
 ### TinyVGG (With Augmentation)
-- Final Accuracy: XX.XX%
+- Final Accuracy: 77.38%
 - Loss vs Epochs Curve  
-  ![TinyVGG Aug Loss Curve](images/Screenshot 2025-09-18 113859.png)
+  ![TinyVGG Aug Loss Curve](images/Screenshot-2025-09-18-113859.png)
 - Accuracy vs Epochs Curve  
-  ![TinyVGG Aug Accuracy Curve](images/Screenshot 2025-09-18 114021.png)
+  ![TinyVGG Aug Accuracy Curve](images/Screenshot-2025-09-18-114021.png)
 - Confusion Matrix  
-  ![TinyVGG Aug Confusion Matrix](images/Screenshot 2025-09-18 114142.png)
+  ![TinyVGG Aug Confusion Matrix](images/Screenshot-2025-09-18-114142.png)
 
 ---
 
 ### ResNet18 (No Augmentation)
-- Final Accuracy: XX.XX%
+- Final Accuracy: 50.80%
 - Loss vs Epochs Curve  
-  ![ResNet No Aug Loss Curve](images/Screenshot 2025-09-18 114103.png)
+  ![ResNet No Aug Loss Curve](images/Screenshot-2025-09-18-114103.png)
 - Accuracy vs Epochs Curve  
-  ![ResNet No Aug Accuracy Curve](images/Screenshot 2025-09-18 114111.png)
+  ![ResNet No Aug Accuracy Curve](images/Screenshot-2025-09-18-114111.png)
 - Confusion Matrix  
-  ![ResNet No Aug Confusion Matrix](images/Screenshot 2025-09-18 114148.png)
+  ![ResNet No Aug Confusion Matrix](images/Screenshot-2025-09-18-114148.png)
 
 ---
 
 ### ResNet18 (With Augmentation)
-- Final Accuracy: XX.XX%
+- Final Accuracy: 84.17%
 - Loss vs Epochs Curve  
-  ![ResNet Aug Loss Curve](images/Screenshot 2025-09-18 114118.png)
+  ![ResNet Aug Loss Curve](images/Screenshot-2025-09-18-114118.png)
 - Accuracy vs Epochs Curve  
-  ![ResNet Aug Accuracy Curve](images/Screenshot 2025-09-18 114124.png)
+  ![ResNet Aug Accuracy Curve](images/Screenshot-2025-09-18-114124.png)
 - Confusion Matrix  
-  ![ResNet Aug Confusion Matrix](images/Screenshot 2025-09-18 114155.png)
+  ![ResNet Aug Confusion Matrix](images/Screenshot-2025-09-18-114155.png)
 
 ---
 
 ## How to Run
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo>.git
-   cd <your-repo>
+   
+   git clone https://github.com/Rishit-Agg/image-classifier-CIFAR10.git
+   cd image-classifier-CIFAR10
 
 2. Install dependencies:
 
